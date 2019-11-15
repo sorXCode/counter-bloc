@@ -2,4 +2,4 @@
 
 A counter application using Bloc for state management.
 
-![preview](./preview.gif)
+<img src=./preview.gif height=500>
